@@ -1,0 +1,4 @@
+{
+  "version": "10.2",
+  "message": "Delete Person no longer depends on reading all course memberships."
+}
