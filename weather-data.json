@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-17T04:56:03.245784+00:00",
-  "lastAttemptAt": "2026-08-17T04:56:03.245784+00:00",
+  "generatedAt": "2026-08-17T05:48:32.797127+00:00",
+  "lastAttemptAt": "2026-08-17T05:48:32.797127+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -304,7 +304,7 @@
           "detailedForecast": "Sunny, with a high near 100. Southeast wind 0 to 5 mph."
         }
       ],
-      "updated": "2026-08-17T04:56:03.245784+00:00",
+      "updated": "2026-08-17T05:48:32.797127+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -607,7 +607,7 @@
           "detailedForecast": "Sunny, with a high near 99. Southeast wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-17T04:56:03.245784+00:00",
+      "updated": "2026-08-17T05:48:32.797127+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -910,7 +910,7 @@
           "detailedForecast": "Sunny, with a high near 100. Southeast wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-17T04:56:03.245784+00:00",
+      "updated": "2026-08-17T05:48:32.797127+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -949,7 +949,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-08-16T23:00:00-05:00",
+          "startTime": "2026-08-16T22:00:00-05:00",
           "endTime": "2026-08-17T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 74,
@@ -1213,7 +1213,7 @@
           "detailedForecast": "Sunny, with a high near 101."
         }
       ],
-      "updated": "2026-08-17T04:56:03.245784+00:00",
+      "updated": "2026-08-17T05:48:32.797127+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Sunny, with a high near 100."
         }
       ],
-      "updated": "2026-08-17T04:56:03.245784+00:00",
+      "updated": "2026-08-17T05:48:32.797127+00:00",
       "stale": false
     }
   }
