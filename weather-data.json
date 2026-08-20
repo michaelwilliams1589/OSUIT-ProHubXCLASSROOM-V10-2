@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-20T19:43:42.233404+00:00",
-  "lastAttemptAt": "2026-08-20T19:43:42.233404+00:00",
+  "generatedAt": "2026-08-20T20:44:24.079800+00:00",
+  "lastAttemptAt": "2026-08-20T20:44:24.079800+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -12,10 +12,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-20T14:00:00-05:00",
-        "endTime": "2026-08-20T15:00:00-05:00",
+        "startTime": "2026-08-20T15:00:00-05:00",
+        "endTime": "2026-08-20T16:00:00-05:00",
         "isDaytime": true,
-        "temperature": 100,
+        "temperature": 102,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -24,11 +24,11 @@
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 19.444444444444443
+          "value": 20
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 35
+          "value": 34
         },
         "windSpeed": "5 mph",
         "windDirection": "NE",
@@ -40,7 +40,7 @@
         {
           "number": 1,
           "name": "This Afternoon",
-          "startTime": "2026-08-20T14:00:00-05:00",
+          "startTime": "2026-08-20T15:00:00-05:00",
           "endTime": "2026-08-20T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 103,
@@ -304,7 +304,7 @@
           "detailedForecast": "Mostly clear, with a low around 72. East wind 0 to 5 mph."
         }
       ],
-      "updated": "2026-08-20T19:43:42.233404+00:00",
+      "updated": "2026-08-20T20:44:24.079800+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -315,10 +315,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-20T14:00:00-05:00",
-        "endTime": "2026-08-20T15:00:00-05:00",
+        "startTime": "2026-08-20T15:00:00-05:00",
+        "endTime": "2026-08-20T16:00:00-05:00",
         "isDaytime": true,
-        "temperature": 97,
+        "temperature": 98,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -331,10 +331,10 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 42
+          "value": 41
         },
         "windSpeed": "5 mph",
-        "windDirection": "E",
+        "windDirection": "NE",
         "icon": "https://api.weather.gov/icons/land/day/few?size=small",
         "shortForecast": "Sunny",
         "detailedForecast": ""
@@ -343,7 +343,7 @@
         {
           "number": 1,
           "name": "This Afternoon",
-          "startTime": "2026-08-20T14:00:00-05:00",
+          "startTime": "2026-08-20T15:00:00-05:00",
           "endTime": "2026-08-20T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 101,
@@ -607,7 +607,7 @@
           "detailedForecast": "Mostly clear, with a low around 74. East wind around 5 mph."
         }
       ],
-      "updated": "2026-08-20T19:43:42.233404+00:00",
+      "updated": "2026-08-20T20:44:24.079800+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -618,10 +618,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-20T14:00:00-05:00",
-        "endTime": "2026-08-20T15:00:00-05:00",
+        "startTime": "2026-08-20T15:00:00-05:00",
+        "endTime": "2026-08-20T16:00:00-05:00",
         "isDaytime": true,
-        "temperature": 96,
+        "temperature": 98,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -630,14 +630,14 @@
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 22.22222222222222
+          "value": 21.666666666666668
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 46
+          "value": 42
         },
         "windSpeed": "5 mph",
-        "windDirection": "E",
+        "windDirection": "NE",
         "icon": "https://api.weather.gov/icons/land/day/few?size=small",
         "shortForecast": "Sunny",
         "detailedForecast": ""
@@ -646,7 +646,7 @@
         {
           "number": 1,
           "name": "This Afternoon",
-          "startTime": "2026-08-20T14:00:00-05:00",
+          "startTime": "2026-08-20T15:00:00-05:00",
           "endTime": "2026-08-20T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 102,
@@ -910,7 +910,7 @@
           "detailedForecast": "Mostly clear, with a low around 73. East wind around 5 mph."
         }
       ],
-      "updated": "2026-08-20T19:43:42.233404+00:00",
+      "updated": "2026-08-20T20:44:24.079800+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -921,10 +921,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-20T14:00:00-05:00",
-        "endTime": "2026-08-20T15:00:00-05:00",
+        "startTime": "2026-08-20T15:00:00-05:00",
+        "endTime": "2026-08-20T16:00:00-05:00",
         "isDaytime": true,
-        "temperature": 98,
+        "temperature": 100,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -937,7 +937,7 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 39
+          "value": 37
         },
         "windSpeed": "8 mph",
         "windDirection": "E",
@@ -949,7 +949,7 @@
         {
           "number": 1,
           "name": "This Afternoon",
-          "startTime": "2026-08-20T14:00:00-05:00",
+          "startTime": "2026-08-20T15:00:00-05:00",
           "endTime": "2026-08-20T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 102,
@@ -1213,7 +1213,7 @@
           "detailedForecast": "A slight chance of showers and thunderstorms after 1am. Partly cloudy, with a low around 72."
         }
       ],
-      "updated": "2026-08-20T19:43:42.233404+00:00",
+      "updated": "2026-08-20T20:44:24.079800+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1224,10 +1224,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-20T14:00:00-05:00",
-        "endTime": "2026-08-20T15:00:00-05:00",
+        "startTime": "2026-08-20T15:00:00-05:00",
+        "endTime": "2026-08-20T16:00:00-05:00",
         "isDaytime": true,
-        "temperature": 102,
+        "temperature": 103,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -1236,11 +1236,11 @@
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 18.88888888888889
+          "value": 18.333333333333332
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 31
+          "value": 29
         },
         "windSpeed": "5 mph",
         "windDirection": "S",
@@ -1252,7 +1252,7 @@
         {
           "number": 1,
           "name": "This Afternoon",
-          "startTime": "2026-08-20T14:00:00-05:00",
+          "startTime": "2026-08-20T15:00:00-05:00",
           "endTime": "2026-08-20T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 104,
@@ -1516,7 +1516,7 @@
           "detailedForecast": "A slight chance of showers and thunderstorms. Mostly clear, with a low around 76."
         }
       ],
-      "updated": "2026-08-20T19:43:42.233404+00:00",
+      "updated": "2026-08-20T20:44:24.079800+00:00",
       "stale": false
     }
   }
