@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-21T09:50:59.330837+00:00",
-  "lastAttemptAt": "2026-08-21T09:50:59.330837+00:00",
+  "generatedAt": "2026-08-21T10:45:18.966527+00:00",
+  "lastAttemptAt": "2026-08-21T10:45:18.966527+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -40,7 +40,7 @@
         {
           "number": 1,
           "name": "Overnight",
-          "startTime": "2026-08-21T04:00:00-05:00",
+          "startTime": "2026-08-21T03:00:00-05:00",
           "endTime": "2026-08-21T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 73,
@@ -304,7 +304,7 @@
           "detailedForecast": "Sunny, with a high near 97. East wind 0 to 5 mph."
         }
       ],
-      "updated": "2026-08-21T09:50:59.330837+00:00",
+      "updated": "2026-08-21T10:45:18.966527+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -343,7 +343,7 @@
         {
           "number": 1,
           "name": "Overnight",
-          "startTime": "2026-08-21T04:00:00-05:00",
+          "startTime": "2026-08-21T03:00:00-05:00",
           "endTime": "2026-08-21T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 75,
@@ -607,7 +607,7 @@
           "detailedForecast": "A slight chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 95. East wind around 5 mph."
         }
       ],
-      "updated": "2026-08-21T09:50:59.330837+00:00",
+      "updated": "2026-08-21T10:45:18.966527+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -646,7 +646,7 @@
         {
           "number": 1,
           "name": "Overnight",
-          "startTime": "2026-08-21T04:00:00-05:00",
+          "startTime": "2026-08-21T03:00:00-05:00",
           "endTime": "2026-08-21T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 74,
@@ -656,11 +656,11 @@
             "unitCode": "wmoUnit:percent",
             "value": 31
           },
-          "windSpeed": "0 mph",
-          "windDirection": "",
+          "windSpeed": "0 to 5 mph",
+          "windDirection": "E",
           "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30?size=medium",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 74. East wind around 0 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 74. East wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "number": 2,
@@ -910,7 +910,7 @@
           "detailedForecast": "A slight chance of rain showers between 7am and 1pm. Mostly sunny, with a high near 95. Northeast wind 0 to 5 mph."
         }
       ],
-      "updated": "2026-08-21T09:50:59.330837+00:00",
+      "updated": "2026-08-21T10:45:18.966527+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -1213,7 +1213,7 @@
           "detailedForecast": "A slight chance of rain showers between 7am and 1pm, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 96."
         }
       ],
-      "updated": "2026-08-21T09:50:59.330837+00:00",
+      "updated": "2026-08-21T10:45:18.966527+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Mostly sunny, with a high near 97."
         }
       ],
-      "updated": "2026-08-21T09:50:59.330837+00:00",
+      "updated": "2026-08-21T10:45:18.966527+00:00",
       "stale": false
     }
   }
