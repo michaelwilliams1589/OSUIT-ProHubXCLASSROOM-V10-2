@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-25T13:09:22.110850+00:00",
-  "lastAttemptAt": "2026-08-25T13:09:22.110850+00:00",
+  "generatedAt": "2026-08-25T14:01:49.296075+00:00",
+  "lastAttemptAt": "2026-08-25T14:01:49.296075+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -12,10 +12,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-25T08:00:00-05:00",
-        "endTime": "2026-08-25T09:00:00-05:00",
+        "startTime": "2026-08-25T09:00:00-05:00",
+        "endTime": "2026-08-25T10:00:00-05:00",
         "isDaytime": true,
-        "temperature": 80,
+        "temperature": 84,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -28,7 +28,7 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 72
+          "value": 64
         },
         "windSpeed": "0 mph",
         "windDirection": "",
@@ -304,7 +304,7 @@
           "detailedForecast": "Mostly clear, with a low around 74. South wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-25T13:09:22.110850+00:00",
+      "updated": "2026-08-25T14:01:49.296075+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -343,7 +343,7 @@
         {
           "number": 1,
           "name": "Today",
-          "startTime": "2026-08-25T08:00:00-05:00",
+          "startTime": "2026-08-25T09:00:00-05:00",
           "endTime": "2026-08-25T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 96,
@@ -607,7 +607,7 @@
           "detailedForecast": "Mostly clear, with a low around 78. South wind 10 to 15 mph, with gusts as high as 20 mph."
         }
       ],
-      "updated": "2026-08-25T13:09:22.110850+00:00",
+      "updated": "2026-08-25T14:01:49.296075+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -618,10 +618,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-25T08:00:00-05:00",
-        "endTime": "2026-08-25T09:00:00-05:00",
+        "startTime": "2026-08-25T09:00:00-05:00",
+        "endTime": "2026-08-25T10:00:00-05:00",
         "isDaytime": true,
-        "temperature": 77,
+        "temperature": 80,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -634,10 +634,10 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 83
+          "value": 77
         },
         "windSpeed": "5 mph",
-        "windDirection": "NE",
+        "windDirection": "E",
         "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
         "shortForecast": "Mostly Sunny",
         "detailedForecast": ""
@@ -646,7 +646,7 @@
         {
           "number": 1,
           "name": "Today",
-          "startTime": "2026-08-25T08:00:00-05:00",
+          "startTime": "2026-08-25T09:00:00-05:00",
           "endTime": "2026-08-25T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 98,
@@ -658,9 +658,9 @@
           },
           "windSpeed": "5 mph",
           "windDirection": "NE",
-          "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 98. Heat index values as high as 107. Northeast wind around 5 mph."
+          "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 98. Heat index values as high as 107. Northeast wind around 5 mph."
         },
         {
           "number": 2,
@@ -910,7 +910,7 @@
           "detailedForecast": "Mostly clear, with a low around 76. South wind 10 to 15 mph."
         }
       ],
-      "updated": "2026-08-25T13:09:22.110850+00:00",
+      "updated": "2026-08-25T14:01:49.296075+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -949,7 +949,7 @@
         {
           "number": 1,
           "name": "Today",
-          "startTime": "2026-08-25T08:00:00-05:00",
+          "startTime": "2026-08-25T09:00:00-05:00",
           "endTime": "2026-08-25T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 98,
@@ -1213,7 +1213,7 @@
           "detailedForecast": "Mostly clear, with a low around 77."
         }
       ],
-      "updated": "2026-08-25T13:09:22.110850+00:00",
+      "updated": "2026-08-25T14:01:49.296075+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Mostly clear, with a low around 79."
         }
       ],
-      "updated": "2026-08-25T13:09:22.110850+00:00",
+      "updated": "2026-08-25T14:01:49.296075+00:00",
       "stale": false
     }
   }
