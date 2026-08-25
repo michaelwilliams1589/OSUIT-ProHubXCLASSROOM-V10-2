@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-25T11:41:28.553659+00:00",
-  "lastAttemptAt": "2026-08-25T11:41:28.553659+00:00",
+  "generatedAt": "2026-08-25T13:09:22.110850+00:00",
+  "lastAttemptAt": "2026-08-25T13:09:22.110850+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -12,10 +12,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-25T06:00:00-05:00",
-        "endTime": "2026-08-25T07:00:00-05:00",
+        "startTime": "2026-08-25T08:00:00-05:00",
+        "endTime": "2026-08-25T09:00:00-05:00",
         "isDaytime": true,
-        "temperature": 73,
+        "temperature": 80,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -24,15 +24,15 @@
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 21.666666666666668
+          "value": 21.11111111111111
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 82
+          "value": 72
         },
         "windSpeed": "0 mph",
         "windDirection": "",
-        "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=small",
         "shortForecast": "Sunny",
         "detailedForecast": ""
       },
@@ -40,7 +40,7 @@
         {
           "number": 1,
           "name": "Today",
-          "startTime": "2026-08-25T06:00:00-05:00",
+          "startTime": "2026-08-25T08:00:00-05:00",
           "endTime": "2026-08-25T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 102,
@@ -51,10 +51,10 @@
             "value": 4
           },
           "windSpeed": "0 to 5 mph",
-          "windDirection": "E",
+          "windDirection": "NE",
           "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 102. Heat index values as high as 110. East wind 0 to 5 mph."
+          "detailedForecast": "Sunny, with a high near 102. Heat index values as high as 110. Northeast wind 0 to 5 mph."
         },
         {
           "number": 2,
@@ -304,7 +304,7 @@
           "detailedForecast": "Mostly clear, with a low around 74. South wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-25T11:41:28.553659+00:00",
+      "updated": "2026-08-25T13:09:22.110850+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -315,10 +315,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-25T06:00:00-05:00",
-        "endTime": "2026-08-25T07:00:00-05:00",
+        "startTime": "2026-08-25T08:00:00-05:00",
+        "endTime": "2026-08-25T09:00:00-05:00",
         "isDaytime": true,
-        "temperature": 74,
+        "temperature": 77,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -331,19 +331,19 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 85
+          "value": 80
         },
         "windSpeed": "5 mph",
-        "windDirection": "E",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=small",
-        "shortForecast": "Sunny",
+        "windDirection": "NE",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
+        "shortForecast": "Mostly Sunny",
         "detailedForecast": ""
       },
       "periods": [
         {
           "number": 1,
           "name": "Today",
-          "startTime": "2026-08-25T06:00:00-05:00",
+          "startTime": "2026-08-25T08:00:00-05:00",
           "endTime": "2026-08-25T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 96,
@@ -607,7 +607,7 @@
           "detailedForecast": "Mostly clear, with a low around 78. South wind 10 to 15 mph, with gusts as high as 20 mph."
         }
       ],
-      "updated": "2026-08-25T11:41:28.553659+00:00",
+      "updated": "2026-08-25T13:09:22.110850+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -618,10 +618,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-25T06:00:00-05:00",
-        "endTime": "2026-08-25T07:00:00-05:00",
+        "startTime": "2026-08-25T08:00:00-05:00",
+        "endTime": "2026-08-25T09:00:00-05:00",
         "isDaytime": true,
-        "temperature": 73,
+        "temperature": 77,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -634,19 +634,19 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 87
+          "value": 83
         },
         "windSpeed": "5 mph",
-        "windDirection": "E",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=small",
-        "shortForecast": "Sunny",
+        "windDirection": "NE",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
+        "shortForecast": "Mostly Sunny",
         "detailedForecast": ""
       },
       "periods": [
         {
           "number": 1,
           "name": "Today",
-          "startTime": "2026-08-25T06:00:00-05:00",
+          "startTime": "2026-08-25T08:00:00-05:00",
           "endTime": "2026-08-25T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 98,
@@ -657,10 +657,10 @@
             "value": 3
           },
           "windSpeed": "5 mph",
-          "windDirection": "E",
-          "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 98. Heat index values as high as 107. East wind around 5 mph."
+          "windDirection": "NE",
+          "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 98. Heat index values as high as 107. Northeast wind around 5 mph."
         },
         {
           "number": 2,
@@ -910,7 +910,7 @@
           "detailedForecast": "Mostly clear, with a low around 76. South wind 10 to 15 mph."
         }
       ],
-      "updated": "2026-08-25T11:41:28.553659+00:00",
+      "updated": "2026-08-25T13:09:22.110850+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -921,15 +921,15 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-25T06:00:00-05:00",
-        "endTime": "2026-08-25T07:00:00-05:00",
+        "startTime": "2026-08-25T08:00:00-05:00",
+        "endTime": "2026-08-25T09:00:00-05:00",
         "isDaytime": true,
         "temperature": 75,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 14
+          "value": 8
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
@@ -937,19 +937,19 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 83
+          "value": 84
         },
-        "windSpeed": "5 mph",
-        "windDirection": "ENE",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=small",
-        "shortForecast": "Partly Sunny",
+        "windSpeed": "7 mph",
+        "windDirection": "NE",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
+        "shortForecast": "Mostly Sunny",
         "detailedForecast": ""
       },
       "periods": [
         {
           "number": 1,
           "name": "Today",
-          "startTime": "2026-08-25T06:00:00-05:00",
+          "startTime": "2026-08-25T08:00:00-05:00",
           "endTime": "2026-08-25T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 98,
@@ -957,13 +957,13 @@
           "temperatureTrend": null,
           "probabilityOfPrecipitation": {
             "unitCode": "wmoUnit:percent",
-            "value": 14
+            "value": 8
           },
-          "windSpeed": "5 to 12 mph",
+          "windSpeed": "7 to 12 mph",
           "windDirection": "NE",
           "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 98. Heat index values as high as 105. Northeast wind 5 to 12 mph."
+          "detailedForecast": "Mostly sunny, with a high near 98. Heat index values as high as 105. Northeast wind 7 to 12 mph."
         },
         {
           "number": 2,
@@ -1213,7 +1213,7 @@
           "detailedForecast": "Mostly clear, with a low around 77."
         }
       ],
-      "updated": "2026-08-25T11:41:28.553659+00:00",
+      "updated": "2026-08-25T13:09:22.110850+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1224,15 +1224,15 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-25T06:00:00-05:00",
-        "endTime": "2026-08-25T07:00:00-05:00",
+        "startTime": "2026-08-25T08:00:00-05:00",
+        "endTime": "2026-08-25T09:00:00-05:00",
         "isDaytime": true,
-        "temperature": 79,
+        "temperature": 78,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 20
+          "value": 12
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
@@ -1240,19 +1240,19 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 66
+          "value": 67
         },
         "windSpeed": "5 mph",
-        "windDirection": "S",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=small",
-        "shortForecast": "Slight Chance Showers And Thunderstorms",
+        "windDirection": "SW",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
+        "shortForecast": "Mostly Sunny",
         "detailedForecast": ""
       },
       "periods": [
         {
           "number": 1,
           "name": "Today",
-          "startTime": "2026-08-25T06:00:00-05:00",
+          "startTime": "2026-08-25T08:00:00-05:00",
           "endTime": "2026-08-25T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 105,
@@ -1260,13 +1260,13 @@
           "temperatureTrend": null,
           "probabilityOfPrecipitation": {
             "unitCode": "wmoUnit:percent",
-            "value": 20
+            "value": 12
           },
           "windSpeed": "5 to 12 mph",
           "windDirection": "NNW",
-          "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20/hot?size=medium",
-          "shortForecast": "Slight Chance Showers And Thunderstorms then Sunny",
-          "detailedForecast": "A slight chance of showers and thunderstorms before 7am. Sunny, with a high near 105. Heat index values as high as 110. North northwest wind 5 to 12 mph. Chance of precipitation is 20%."
+          "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 105. Heat index values as high as 110. North northwest wind 5 to 12 mph."
         },
         {
           "number": 2,
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Mostly clear, with a low around 79."
         }
       ],
-      "updated": "2026-08-25T11:41:28.553659+00:00",
+      "updated": "2026-08-25T13:09:22.110850+00:00",
       "stale": false
     }
   }
