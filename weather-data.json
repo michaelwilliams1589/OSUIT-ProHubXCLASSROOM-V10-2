@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-25T03:11:33.871078+00:00",
-  "lastAttemptAt": "2026-08-25T03:11:33.871078+00:00",
+  "generatedAt": "2026-08-25T03:57:51.568253+00:00",
+  "lastAttemptAt": "2026-08-25T03:57:51.568253+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -304,7 +304,7 @@
           "detailedForecast": "Sunny, with a high near 102. South wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-25T03:11:33.871078+00:00",
+      "updated": "2026-08-25T03:57:51.568253+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -607,7 +607,7 @@
           "detailedForecast": "Sunny, with a high near 101. South wind 10 to 15 mph, with gusts as high as 20 mph."
         }
       ],
-      "updated": "2026-08-25T03:11:33.871078+00:00",
+      "updated": "2026-08-25T03:57:51.568253+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -910,7 +910,7 @@
           "detailedForecast": "Sunny, with a high near 101. South wind 10 to 15 mph, with gusts as high as 20 mph."
         }
       ],
-      "updated": "2026-08-25T03:11:33.871078+00:00",
+      "updated": "2026-08-25T03:57:51.568253+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -929,7 +929,7 @@
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 8
+          "value": 2
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
@@ -939,10 +939,10 @@
           "unitCode": "wmoUnit:percent",
           "value": 67
         },
-        "windSpeed": "7 mph",
+        "windSpeed": "6 mph",
         "windDirection": "ENE",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
-        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=small",
+        "shortForecast": "Mostly Clear",
         "detailedForecast": ""
       },
       "periods": [
@@ -957,13 +957,13 @@
           "temperatureTrend": null,
           "probabilityOfPrecipitation": {
             "unitCode": "wmoUnit:percent",
-            "value": 8
+            "value": 6
           },
-          "windSpeed": "3 to 7 mph",
+          "windSpeed": "6 mph",
           "windDirection": "ENE",
-          "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 73. East northeast wind 3 to 7 mph."
+          "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 73. East northeast wind around 6 mph."
         },
         {
           "number": 2,
@@ -1213,7 +1213,7 @@
           "detailedForecast": "Sunny, with a high near 102."
         }
       ],
-      "updated": "2026-08-25T03:11:33.871078+00:00",
+      "updated": "2026-08-25T03:57:51.568253+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1227,12 +1227,12 @@
         "startTime": "2026-08-24T22:00:00-05:00",
         "endTime": "2026-08-24T23:00:00-05:00",
         "isDaytime": false,
-        "temperature": 90,
+        "temperature": 91,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 10
+          "value": 9
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
@@ -1240,12 +1240,12 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 49
+          "value": 47
         },
-        "windSpeed": "7 mph",
+        "windSpeed": "6 mph",
         "windDirection": "NE",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
+        "shortForecast": "Partly Cloudy",
         "detailedForecast": ""
       },
       "periods": [
@@ -1262,11 +1262,11 @@
             "unitCode": "wmoUnit:percent",
             "value": 13
           },
-          "windSpeed": "7 mph",
+          "windSpeed": "6 mph",
           "windDirection": "E",
           "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 78. East wind around 7 mph."
+          "detailedForecast": "Partly cloudy, with a low around 78. East wind around 6 mph."
         },
         {
           "number": 2,
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Sunny, with a high near 101."
         }
       ],
-      "updated": "2026-08-25T03:11:33.871078+00:00",
+      "updated": "2026-08-25T03:57:51.568253+00:00",
       "stale": false
     }
   }
