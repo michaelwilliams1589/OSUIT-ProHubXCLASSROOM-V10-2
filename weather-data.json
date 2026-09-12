@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-12T00:16:08.572269+00:00",
-  "lastAttemptAt": "2026-09-12T00:16:08.572269+00:00",
+  "generatedAt": "2026-09-12T04:38:08.512351+00:00",
+  "lastAttemptAt": "2026-09-12T04:38:08.512351+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -12,10 +12,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-09-11T19:00:00-05:00",
-        "endTime": "2026-09-11T20:00:00-05:00",
+        "startTime": "2026-09-11T23:00:00-05:00",
+        "endTime": "2026-09-12T00:00:00-05:00",
         "isDaytime": false,
-        "temperature": 86,
+        "temperature": 75,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -24,11 +24,11 @@
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 21.666666666666668
+          "value": 22.22222222222222
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 52
+          "value": 90
         },
         "windSpeed": "0 mph",
         "windDirection": "",
@@ -40,7 +40,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-09-11T19:00:00-05:00",
+          "startTime": "2026-09-11T23:00:00-05:00",
           "endTime": "2026-09-12T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 69,
@@ -304,7 +304,7 @@
           "detailedForecast": "A slight chance of rain showers before 1pm, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 93. North wind around 5 mph."
         }
       ],
-      "updated": "2026-09-12T00:16:08.572269+00:00",
+      "updated": "2026-09-12T04:38:08.512351+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -315,10 +315,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-09-11T19:00:00-05:00",
-        "endTime": "2026-09-11T20:00:00-05:00",
+        "startTime": "2026-09-11T23:00:00-05:00",
+        "endTime": "2026-09-12T00:00:00-05:00",
         "isDaytime": false,
-        "temperature": 88,
+        "temperature": 80,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -331,19 +331,19 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 55
+          "value": 72
         },
         "windSpeed": "5 mph",
-        "windDirection": "SE",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-        "shortForecast": "Mostly Clear",
+        "windDirection": "E",
+        "icon": "https://api.weather.gov/icons/land/night/skc?size=small",
+        "shortForecast": "Clear",
         "detailedForecast": ""
       },
       "periods": [
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-09-11T19:00:00-05:00",
+          "startTime": "2026-09-11T23:00:00-05:00",
           "endTime": "2026-09-12T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 72,
@@ -355,9 +355,9 @@
           },
           "windSpeed": "5 mph",
           "windDirection": "SE",
-          "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 72. Southeast wind around 5 mph."
+          "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear, with a low around 72. Southeast wind around 5 mph."
         },
         {
           "number": 2,
@@ -607,7 +607,7 @@
           "detailedForecast": "A slight chance of showers and thunderstorms. Mostly sunny, with a high near 91. Northeast wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-09-12T00:16:08.572269+00:00",
+      "updated": "2026-09-12T04:38:08.512351+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -618,10 +618,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-09-11T19:00:00-05:00",
-        "endTime": "2026-09-11T20:00:00-05:00",
+        "startTime": "2026-09-11T23:00:00-05:00",
+        "endTime": "2026-09-12T00:00:00-05:00",
         "isDaytime": false,
-        "temperature": 87,
+        "temperature": 76,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -630,11 +630,11 @@
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 22.22222222222222
+          "value": 21.666666666666668
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 58
+          "value": 85
         },
         "windSpeed": "5 mph",
         "windDirection": "SE",
@@ -646,7 +646,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-09-11T19:00:00-05:00",
+          "startTime": "2026-09-11T23:00:00-05:00",
           "endTime": "2026-09-12T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 71,
@@ -658,9 +658,9 @@
           },
           "windSpeed": "5 mph",
           "windDirection": "SE",
-          "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-          "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 71. Southeast wind around 5 mph."
+          "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 71. Southeast wind around 5 mph."
         },
         {
           "number": 2,
@@ -910,7 +910,7 @@
           "detailedForecast": "A slight chance of rain showers before 7am, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 92. Northeast wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-09-12T00:16:08.572269+00:00",
+      "updated": "2026-09-12T04:38:08.512351+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -921,10 +921,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-09-11T19:00:00-05:00",
-        "endTime": "2026-09-11T20:00:00-05:00",
+        "startTime": "2026-09-11T23:00:00-05:00",
+        "endTime": "2026-09-12T00:00:00-05:00",
         "isDaytime": false,
-        "temperature": 88,
+        "temperature": 77,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -933,11 +933,11 @@
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 21.666666666666668
+          "value": 21.11111111111111
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 57
+          "value": 79
         },
         "windSpeed": "5 mph",
         "windDirection": "ESE",
@@ -949,7 +949,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-09-11T19:00:00-05:00",
+          "startTime": "2026-09-11T23:00:00-05:00",
           "endTime": "2026-09-12T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 70,
@@ -960,10 +960,10 @@
             "value": 3
           },
           "windSpeed": "5 mph",
-          "windDirection": "ESE",
+          "windDirection": "SE",
           "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
           "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 70. East southeast wind around 5 mph."
+          "detailedForecast": "Clear, with a low around 70. Southeast wind around 5 mph."
         },
         {
           "number": 2,
@@ -1213,7 +1213,7 @@
           "detailedForecast": "A slight chance of showers and thunderstorms. Mostly sunny, with a high near 91."
         }
       ],
-      "updated": "2026-09-12T00:16:08.572269+00:00",
+      "updated": "2026-09-12T04:38:08.512351+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1224,10 +1224,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-09-11T19:00:00-05:00",
-        "endTime": "2026-09-11T20:00:00-05:00",
+        "startTime": "2026-09-11T23:00:00-05:00",
+        "endTime": "2026-09-12T00:00:00-05:00",
         "isDaytime": false,
-        "temperature": 91,
+        "temperature": 84,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -1240,9 +1240,9 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 50
+          "value": 63
         },
-        "windSpeed": "6 mph",
+        "windSpeed": "7 mph",
         "windDirection": "SSE",
         "icon": "https://api.weather.gov/icons/land/night/skc?size=small",
         "shortForecast": "Clear",
@@ -1252,7 +1252,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-09-11T19:00:00-05:00",
+          "startTime": "2026-09-11T23:00:00-05:00",
           "endTime": "2026-09-12T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 76,
@@ -1266,7 +1266,7 @@
           "windDirection": "SSE",
           "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
           "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 76. Heat index values as high as 97. South southeast wind around 8 mph."
+          "detailedForecast": "Clear, with a low around 76. South southeast wind around 8 mph."
         },
         {
           "number": 2,
@@ -1516,7 +1516,7 @@
           "detailedForecast": "A chance of showers and thunderstorms before 1pm, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 92."
         }
       ],
-      "updated": "2026-09-12T00:16:08.572269+00:00",
+      "updated": "2026-09-12T04:38:08.512351+00:00",
       "stale": false
     }
   }
