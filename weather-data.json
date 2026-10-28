@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-27T23:44:52.402299+00:00",
-  "lastAttemptAt": "2026-10-27T23:44:52.402299+00:00",
+  "generatedAt": "2026-10-28T05:36:40.186461+00:00",
+  "lastAttemptAt": "2026-10-28T05:36:40.186461+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -12,10 +12,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-10-27T18:00:00-05:00",
-        "endTime": "2026-10-27T19:00:00-05:00",
+        "startTime": "2026-10-28T00:00:00-05:00",
+        "endTime": "2026-10-28T01:00:00-05:00",
         "isDaytime": false,
-        "temperature": 77,
+        "temperature": 62,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -28,7 +28,7 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 50
+          "value": 84
         },
         "windSpeed": "5 mph",
         "windDirection": "S",
@@ -39,8 +39,8 @@
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "startTime": "2026-10-27T18:00:00-05:00",
+          "name": "Overnight",
+          "startTime": "2026-10-28T00:00:00-05:00",
           "endTime": "2026-10-28T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 58,
@@ -304,7 +304,7 @@
           "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 70. West wind 10 to 15 mph, with gusts as high as 25 mph."
         }
       ],
-      "updated": "2026-10-27T23:44:52.402299+00:00",
+      "updated": "2026-10-28T05:36:40.186461+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -315,23 +315,23 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-10-27T18:00:00-05:00",
-        "endTime": "2026-10-27T19:00:00-05:00",
+        "startTime": "2026-10-28T00:00:00-05:00",
+        "endTime": "2026-10-28T01:00:00-05:00",
         "isDaytime": false,
-        "temperature": 77,
+        "temperature": 66,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 1
+          "value": 0
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 13.88888888888889
+          "value": 14.444444444444445
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 50
+          "value": 75
         },
         "windSpeed": "5 mph",
         "windDirection": "S",
@@ -343,7 +343,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-10-27T18:00:00-05:00",
+          "startTime": "2026-10-27T23:00:00-05:00",
           "endTime": "2026-10-28T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 61,
@@ -607,7 +607,7 @@
           "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 68. West wind around 15 mph, with gusts as high as 30 mph."
         }
       ],
-      "updated": "2026-10-27T23:44:52.402299+00:00",
+      "updated": "2026-10-28T05:36:40.186461+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -618,15 +618,15 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-10-27T18:00:00-05:00",
-        "endTime": "2026-10-27T19:00:00-05:00",
+        "startTime": "2026-10-28T00:00:00-05:00",
+        "endTime": "2026-10-28T01:00:00-05:00",
         "isDaytime": false,
-        "temperature": 76,
+        "temperature": 64,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 1
+          "value": 0
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
@@ -634,7 +634,7 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 54
+          "value": 81
         },
         "windSpeed": "5 mph",
         "windDirection": "S",
@@ -645,8 +645,8 @@
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "startTime": "2026-10-27T18:00:00-05:00",
+          "name": "Overnight",
+          "startTime": "2026-10-28T00:00:00-05:00",
           "endTime": "2026-10-28T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 59,
@@ -910,7 +910,7 @@
           "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 69. West wind around 15 mph, with gusts as high as 25 mph."
         }
       ],
-      "updated": "2026-10-27T23:44:52.402299+00:00",
+      "updated": "2026-10-28T05:36:40.186461+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -921,15 +921,15 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-10-27T18:00:00-05:00",
-        "endTime": "2026-10-27T19:00:00-05:00",
+        "startTime": "2026-10-28T00:00:00-05:00",
+        "endTime": "2026-10-28T01:00:00-05:00",
         "isDaytime": false,
-        "temperature": 76,
+        "temperature": 65,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 3
+          "value": 5
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
@@ -937,7 +937,7 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 58
+          "value": 84
         },
         "windSpeed": "7 mph",
         "windDirection": "S",
@@ -948,8 +948,8 @@
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "startTime": "2026-10-27T18:00:00-05:00",
+          "name": "Overnight",
+          "startTime": "2026-10-28T00:00:00-05:00",
           "endTime": "2026-10-28T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 61,
@@ -1213,7 +1213,7 @@
           "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 68."
         }
       ],
-      "updated": "2026-10-27T23:44:52.402299+00:00",
+      "updated": "2026-10-28T05:36:40.186461+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1224,15 +1224,15 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-10-27T18:00:00-05:00",
-        "endTime": "2026-10-27T19:00:00-05:00",
+        "startTime": "2026-10-28T00:00:00-05:00",
+        "endTime": "2026-10-28T01:00:00-05:00",
         "isDaytime": false,
-        "temperature": 76,
+        "temperature": 68,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 1
+          "value": 4
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
@@ -1240,36 +1240,17 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 56
+          "value": 73
         },
-        "windSpeed": "9 mph",
+        "windSpeed": "10 mph",
         "windDirection": "S",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/skc?size=small",
+        "shortForecast": "Clear",
         "detailedForecast": ""
       },
       "periods": [
         {
           "number": 1,
-          "name": "This Afternoon",
-          "startTime": "2026-10-27T14:00:00-05:00",
-          "endTime": "2026-10-27T18:00:00-05:00",
-          "isDaytime": true,
-          "temperature": 77,
-          "temperatureUnit": "F",
-          "temperatureTrend": null,
-          "probabilityOfPrecipitation": {
-            "unitCode": "wmoUnit:percent",
-            "value": 1
-          },
-          "windSpeed": "12 mph",
-          "windDirection": "SSW",
-          "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 77. South southwest wind around 12 mph, with gusts as high as 22 mph."
-        },
-        {
-          "number": 2,
           "name": "Tonight",
           "startTime": "2026-10-27T18:00:00-05:00",
           "endTime": "2026-10-28T06:00:00-05:00",
@@ -1288,7 +1269,7 @@
           "detailedForecast": "Mostly clear, with a low around 63. South wind 8 to 12 mph, with gusts as high as 18 mph."
         },
         {
-          "number": 3,
+          "number": 2,
           "name": "Wednesday",
           "startTime": "2026-10-28T06:00:00-05:00",
           "endTime": "2026-10-28T18:00:00-05:00",
@@ -1307,7 +1288,7 @@
           "detailedForecast": "Sunny, with a high near 81. South southwest wind 12 to 15 mph, with gusts as high as 26 mph."
         },
         {
-          "number": 4,
+          "number": 3,
           "name": "Wednesday Night",
           "startTime": "2026-10-28T18:00:00-05:00",
           "endTime": "2026-10-29T06:00:00-05:00",
@@ -1326,7 +1307,7 @@
           "detailedForecast": "Mostly clear, with a low around 65. South wind 9 to 13 mph, with gusts as high as 24 mph."
         },
         {
-          "number": 5,
+          "number": 4,
           "name": "Thursday",
           "startTime": "2026-10-29T06:00:00-05:00",
           "endTime": "2026-10-29T18:00:00-05:00",
@@ -1345,7 +1326,7 @@
           "detailedForecast": "Mostly sunny, with a high near 83. South wind around 10 mph, with gusts as high as 18 mph."
         },
         {
-          "number": 6,
+          "number": 5,
           "name": "Thursday Night",
           "startTime": "2026-10-29T18:00:00-05:00",
           "endTime": "2026-10-30T06:00:00-05:00",
@@ -1361,10 +1342,10 @@
           "windDirection": "S",
           "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
           "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 1am. Mostly cloudy, with a low around 63. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain showers after 1am. Mostly cloudy, with a low around 63. South wind 5 to 9 mph. Chance of precipitation is 20%."
         },
         {
-          "number": 7,
+          "number": 6,
           "name": "Friday",
           "startTime": "2026-10-30T06:00:00-05:00",
           "endTime": "2026-10-30T18:00:00-05:00",
@@ -1383,7 +1364,7 @@
           "detailedForecast": "Rain showers. Cloudy, with a high near 71. Chance of precipitation is 80%."
         },
         {
-          "number": 8,
+          "number": 7,
           "name": "Friday Night",
           "startTime": "2026-10-30T18:00:00-05:00",
           "endTime": "2026-10-31T06:00:00-05:00",
@@ -1402,7 +1383,7 @@
           "detailedForecast": "Rain showers. Mostly cloudy, with a low around 57. Chance of precipitation is 80%."
         },
         {
-          "number": 9,
+          "number": 8,
           "name": "Saturday",
           "startTime": "2026-10-31T06:00:00-05:00",
           "endTime": "2026-10-31T18:00:00-05:00",
@@ -1421,7 +1402,7 @@
           "detailedForecast": "Rain showers likely before 1pm. Mostly cloudy, with a high near 70. Chance of precipitation is 70%."
         },
         {
-          "number": 10,
+          "number": 9,
           "name": "Saturday Night",
           "startTime": "2026-10-31T18:00:00-05:00",
           "endTime": "2026-11-01T06:00:00-06:00",
@@ -1440,7 +1421,7 @@
           "detailedForecast": "Mostly cloudy, with a low around 56."
         },
         {
-          "number": 11,
+          "number": 10,
           "name": "Sunday",
           "startTime": "2026-11-01T06:00:00-06:00",
           "endTime": "2026-11-01T18:00:00-06:00",
@@ -1459,7 +1440,7 @@
           "detailedForecast": "A slight chance of rain showers after noon. Partly sunny, with a high near 71. Chance of precipitation is 20%."
         },
         {
-          "number": 12,
+          "number": 11,
           "name": "Sunday Night",
           "startTime": "2026-11-01T18:00:00-06:00",
           "endTime": "2026-11-02T06:00:00-06:00",
@@ -1478,7 +1459,7 @@
           "detailedForecast": "A chance of showers and thunderstorms before midnight, then showers and thunderstorms likely. Mostly cloudy, with a low around 61. Chance of precipitation is 60%."
         },
         {
-          "number": 13,
+          "number": 12,
           "name": "Monday",
           "startTime": "2026-11-02T06:00:00-06:00",
           "endTime": "2026-11-02T18:00:00-06:00",
@@ -1497,7 +1478,7 @@
           "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 73. Chance of precipitation is 60%."
         },
         {
-          "number": 14,
+          "number": 13,
           "name": "Monday Night",
           "startTime": "2026-11-02T18:00:00-06:00",
           "endTime": "2026-11-03T06:00:00-06:00",
@@ -1513,10 +1494,29 @@
           "windDirection": "SW",
           "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Partly cloudy, with a low around 54."
+          "detailedForecast": "A chance of rain showers. Partly cloudy, with a low around 54. Chance of precipitation is 30%."
+        },
+        {
+          "number": 14,
+          "name": "Tuesday",
+          "startTime": "2026-11-03T06:00:00-06:00",
+          "endTime": "2026-11-03T18:00:00-06:00",
+          "isDaytime": true,
+          "temperature": 66,
+          "temperatureUnit": "F",
+          "temperatureTrend": null,
+          "probabilityOfPrecipitation": {
+            "unitCode": "wmoUnit:percent",
+            "value": 26
+          },
+          "windSpeed": "14 to 17 mph",
+          "windDirection": "NW",
+          "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,20?size=medium",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 66."
         }
       ],
-      "updated": "2026-10-27T23:44:52.402299+00:00",
+      "updated": "2026-10-28T05:36:40.186461+00:00",
       "stale": false
     }
   }
